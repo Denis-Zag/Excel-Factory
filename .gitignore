@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+*.log
+
+# Закрытый ключ сервисного аккаунта Google.
+excel-factory-511911-9cc45187496d.json
+
